@@ -64,6 +64,7 @@
   );
 
   transition: 300ms ease-out;
+  transition-property: transform;
 }
 
 .bestsellers-item:hover .overlay {
